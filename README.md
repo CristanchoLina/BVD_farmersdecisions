@@ -2,8 +2,7 @@
 
 
 ## Code BVD with vaccination decisions
-
-Code_BVD contains the script bvd_with_vaccination_dynamics.ipynb used for simulating the model with the vaccination decision component
+The script bvd_with_vaccination_dynamics.ipynb used for simulating the model with the vaccination decision component
 
 ## Herd-based parameters:
 
