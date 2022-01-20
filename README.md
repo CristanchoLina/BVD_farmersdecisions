@@ -3,7 +3,6 @@
 
 ## Code BVD with vaccination decisions
 The script bvd_with_vaccination_dynamics.ipynb used for simulating the model with the vaccination decision component.
-The folder inf_beef_J contains all the (fictitious) data that is needed to run it.
 
 ## Herd-based parameters:
 
